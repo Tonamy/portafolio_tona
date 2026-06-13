@@ -1,0 +1,1 @@
+const t="/portafolio_tona/assets/BThuZO9N.webp",s="/portafolio_tona/assets/CWzXOe1E.webp",a="/portafolio_tona/assets/Cfxhwljc.webp",o="/portafolio_tona/assets/BAl1Gd37.webp";export{s as a,a as b,o as c,t};
