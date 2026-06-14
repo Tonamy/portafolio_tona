@@ -4,7 +4,7 @@ import glsl from "vite-plugin-glsl";
 
 export default defineConfig({
   // Esta línea asegura que los assets se carguen bien en GitHub Pages
-  base: process.env.NODE_ENV === 'production' ? '/nombre-de-tu-repositorio/' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/portafolio_tona/' : '/',
 
   plugins: [
     vue(),

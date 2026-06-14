@@ -38613,7 +38613,7 @@ Disallow: /de/privacy
         <h1>Impressum</h1>
         <p>Information gemäß § 5 TMG</p>
         <p>Tonatiuh Garza</p>
-        <p>E-Mail: me@Tonatiuh-hckh.com</p>
+        <p>E-Mail: tonahina@live.com</p>
 
         <h1>Allgemeine Geschäftsbedingungen der Website</h1>
 
@@ -38927,7 +38927,7 @@ Disallow: /de/privacy
         <h1>Kontakt</h1>
         <p>Bei Fragen erreichen Sie uns unter:</p>
         <ul>
-          <li>E-Mail: me@Tonatiuh-hckh.com</li>
+          <li>E-Mail: tonahina@live.com</li>
         </ul>
       </div>
     </div>
